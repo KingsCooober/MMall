@@ -19,18 +19,18 @@
   <div class=w>
     <div class=user-info>
       <span class="site-user not-login">
-        <a class="link link-login" href="./login.jsp">登录</a>
-        <a class="link link-register" href=./register.jsp>注册</a>
+        <a class="link link-login" href="jsp/login.jsp">登录</a>
+        <a class="link link-register" href=jsp/register.jsp>注册</a>
       </span>
       <span class="site-user login">
         <span class=link-text>欢迎，<span class=username></span></span>
         <span class="link link-logout">退出</span> </span>
     </div>
     <ul class=nav-list>
-      <li class=nav-item><a class=link href=./cart.jsp><i class="fa fa-shopping-cart"></i> 购物车(<span class=cart-count>0</span>)</a> </li>
-      <li class=nav-item> <a class=link href=./order-list.jsp>我的订单</a> </li>
-      <li class=nav-item> <a class=link href=./user-center.jsp>我的MMall</a> </li>
-      <li class=nav-item> <a class=link href=./about.jsp>关于MMall</a> </li>
+      <li class=nav-item><a class=link href=jsp/cart.jsp><i class="fa fa-shopping-cart"></i> 购物车(<span class=cart-count>0</span>)</a> </li>
+      <li class=nav-item> <a class=link href=jsp/order-list.jsp>我的订单</a> </li>
+      <li class=nav-item> <a class=link href=jsp/user-center.jsp>我的MMall</a> </li>
+      <li class=nav-item> <a class=link href=jsp/about.jsp>关于MMall</a> </li>
     </ul>
   </div>
 </div>

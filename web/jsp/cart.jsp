@@ -12,8 +12,8 @@
     <meta charset=utf-8 /> <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
     <title>购物车--MMall电商平台</title>
-    <link href="css/common.css" rel="stylesheet">
-    <link href="css/cart.css" rel="stylesheet">
+    <link href="../css/common.css" rel="stylesheet">
+    <link href="../css/cart.css" rel="stylesheet">
 </head>
 <body>
 <div class=site-nav>
@@ -33,15 +33,15 @@
                     <i class="fa fa-shopping-cart"></i> 购物车(<span class=cart-count>0</span>)</a> </li>
             <li class=nav-item> <a class=link href=./order-list.jsp>我的订单</a> </li>
             <li class=nav-item> <a class=link href=./user-center.jsp>我的MMall</a> </li>
-            <li class=nav-item> <a class=link href=./about.jsp>关于MMall</a> </li>
+            <li class=nav-item> <a class=link href=about.jsp>关于MMall</a> </li>
         </ul>
     </div>
 </div>
-<div class=header> <div class=w> <a class=logo href=./index.jsp>MMall</a> <div class=search-form> <input class=search-input id=search-input placeholder=请输入商品名称 /> <button class=search-btn id=search-btn>搜索</button> </div> </div> </div>
+<div class=header> <div class=w> <a class=logo href=../index.jsp>MMall</a> <div class=search-form> <input class=search-input id=search-input placeholder=请输入商品名称 /> <button class=search-btn id=search-btn>搜索</button> </div> </div> </div>
 <div class="crumb">
     <div class="w">
         <div class="crumb-list">
-            <a href="./index.jsp" class="crumb-item">MMall</a>
+            <a href="../index.jsp" class="crumb-item">MMall</a>
             <span>></span>
             <span class="crumb-item">我的购物车</span>
         </div>
@@ -61,9 +61,9 @@
         <p class=copyright> Copyright © 2018 www.MMall.com All Rights Reserved </p>
     </div>
 </div>
-<script type="text/javascript" src="js/base.js"></script>
-<script type="text/javascript" src="js/common.js"></script>
-<script type="text/javascript" src="js/cart.js"></script>
+<script type="text/javascript" src="../js/base.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/cart.js"></script>
 </body>
 </html>
 

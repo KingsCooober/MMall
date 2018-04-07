@@ -12,8 +12,8 @@
     <meta charset=utf-8 /> <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
     <title>关于我们--MMall电商平台</title>
-    <link href="./css/common.css" rel="stylesheet">
-    <link href="./css/about.css" rel="stylesheet">
+    <link href="../css/common.css" rel="stylesheet">
+    <link href="../css/about.css" rel="stylesheet">
 </head>
 <body>
 
@@ -50,7 +50,7 @@
 
 <div class=header>
     <div class=w>
-        <a class=logo href=./index.jsp>MMall</a>
+        <a class=logo href=../index.jsp>MMall</a>
         <div class=search-form>
             <input class=search-input id=search-input placeholder=请输入商品名称 />
             <button class=search-btn id=search-btn>搜索</button>
@@ -60,7 +60,7 @@
 <div class="crumb">
     <div class="w">
         <div class="crumb-list">
-            <a href="./index.jsp" class="crumb-item">MMall</a>
+            <a href="../index.jsp" class="crumb-item">MMall</a>
             <span>></span>
             <span class="crumb-item">关于MMall</span>
         </div>
@@ -91,8 +91,8 @@
         <p class=copyright> Copyright © 2018 www.MMall.com All Rights Reserved </p>
     </div>
 </div>
-<script type="text/javascript" src="./js/base.js"></script>
-<script type="text/javascript" src="./js/common.js"></script>
-<script type="text/javascript" src="./js/about.js"></script>
+<script type="text/javascript" src="../js/base.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/about.js"></script>
 </body>
 </html>

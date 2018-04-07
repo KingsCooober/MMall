@@ -14,11 +14,11 @@
 
     <title>用户登录--MMall电商平台</title>
 
-    <link href="./css/common.css" rel="stylesheet">
-    <link href="./css/login.css" rel="stylesheet">
+    <link href="../css/common.css" rel="stylesheet">
+    <link href="../css/login.css" rel="stylesheet">
 </head>
 <body>
-<div class=header-simple> <div class=w> <a href=./index.jsp class=logo>MMall</a> </div> </div>
+<div class=header-simple> <div class=w> <a href=../index.jsp class=logo>MMall</a> </div> </div>
 <div class="user-wrap">
     <div class="user-con w">
         <div class="user-title">用户登录</div>
@@ -55,9 +55,9 @@
     </div>
 </div>
 
-<script type="text/javascript" src="./js/base.js"></script>
-<script type="text/javascript" src="./js/common.js"></script>
-<script type="text/javascript" src="./js/login.js"></script>
+<script type="text/javascript" src="../js/base.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/login.js"></script>
 </body>
 </html>
 

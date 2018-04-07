@@ -12,11 +12,11 @@
     <meta charset=utf-8 /> <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
     <title>找回密码--MMall电商平台</title>
-    <link href="css/common.css" rel="stylesheet">
-    <link href="css/pass-reset.css" rel="stylesheet">
+    <link href="../css/common.css" rel="stylesheet">
+    <link href="../css/pass-reset.css" rel="stylesheet">
 </head>
 <body>
-<div class=header-simple> <div class=w> <a href=./index.jsp class=logo>MMall</a> </div> </div>
+<div class=header-simple> <div class=w> <a href=../index.jsp class=logo>MMall</a> </div> </div>
 <div class="user-wrap">
     <div class="user-con w">
         <div class="user-title">找回密码</div>
@@ -64,8 +64,8 @@
         <p class=copyright> Copyright © 2018 www.MMall.com All Rights Reserved </p>
     </div>
 </div>
-<script type="text/javascript" src="js/base.js"></script>
-<script type="text/javascript" src="js/common.js"></script>
-<script type="text/javascript" src="js/pass-reset.js"></script>
+<script type="text/javascript" src="../js/base.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/pass-reset.js"></script>
 </body>
 </html>
